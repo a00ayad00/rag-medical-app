@@ -72,6 +72,5 @@ newgrp docker
     * `AWS_SECRET_ACCESS_KEY` : also from the same .csv file.
     * `AWS_REGION` : _us-east-1_ for me.
     * `ECR_REPOSITORY_NAME` : your ECR repo name you created in step 3.
-    * `ECR_REPOSITORY_URI` : the URI you copied in step 3.
     * `PINECONE_API_KEY` : from .env file in your workspace.
     * `GROQ_API_KEY` : from .env file also.
