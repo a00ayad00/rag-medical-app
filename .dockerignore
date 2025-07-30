@@ -1,0 +1,11 @@
+pdfs
+.venv
+__pycache__
+.env.example
+.gitignore
+.python-version
+.LICENSE
+pyproject.toml
+README.md
+try.ipynb
+uv.lock
